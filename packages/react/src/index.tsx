@@ -24,7 +24,7 @@ export const Button = styled('button', {
   },
 
   defaultVariants: {
-    size: 'big',
+    size: 'small',
   },
 })
 
